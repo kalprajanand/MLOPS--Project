@@ -1,0 +1,13 @@
+prefix=E:/iit class/MLOPS/Assignmet1/assign/Library
+exec_prefix=E:/iit class/MLOPS/Assignmet1/assign/Library
+libdir=E:/iit class/MLOPS/Assignmet1/assign/Library/lib
+sharedlibdir=E:/iit class/MLOPS/Assignmet1/assign/Library/lib
+includedir=E:/iit class/MLOPS/Assignmet1/assign/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

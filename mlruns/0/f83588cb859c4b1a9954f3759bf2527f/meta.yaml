@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/iit%20class/MLOPS/Assignmet1/mlruns/0/f83588cb859c4b1a9954f3759bf2527f/artifacts
+end_time: 1718290284262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f83588cb859c4b1a9954f3759bf2527f
+run_name: traveling-swan-728
+run_uuid: f83588cb859c4b1a9954f3759bf2527f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718290273388
+status: 3
+tags: []
+user_id: kalpr

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/iit%20class/MLOPS/Assignmet1/mlruns/0/3173578b8ef6474fbcc63572c70bc296/artifacts
+end_time: 1718254894788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3173578b8ef6474fbcc63572c70bc296
+run_name: gifted-gnat-95
+run_uuid: 3173578b8ef6474fbcc63572c70bc296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718254886697
+status: 3
+tags: []
+user_id: kalpr
